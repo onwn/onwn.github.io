@@ -1,3 +1,6 @@
+# Ruby Setup
+Gemfile.lock
+
 # Jekyll
 _site
 .sass-cache
