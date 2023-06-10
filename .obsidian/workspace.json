@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "719b17eba8c5a0b9",
+        "id": "ff3b0bd563a9f0b8",
         "type": "tabs",
         "children": [
           {
-            "id": "abaeb32370bc7e52",
+            "id": "eeb18e6c78a1f9ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           }
         ]
@@ -138,19 +146,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52599ac39f6cde2c",
+  "active": "eeb18e6c78a1f9ab",
   "lastOpenFiles": [
+    "index.md",
+    "_site/assets/minima-social-icons.svg",
+    "about.md",
+    "_posts/2023-06-11-welcome-to-jekyll.md",
+    "_site/Gemfile.lock",
+    "_site/Gemfile",
     "_site/jekyll/update/2023/06/11/welcome-to-jekyll.html",
     "_site/jekyll/update/2023/06/11",
     "_site/jekyll/update/2023/06",
     "_site/jekyll/update/2023",
     "_site/jekyll/update",
-    "_site/assets/minima-social-icons.svg",
     "_site/assets/main.css",
     "_site/about/index.html",
-    "_site/jekyll",
-    "_site/index.html",
-    "_site/feed.xml",
-    "_site/assets"
+    "_site/jekyll"
   ]
 }
